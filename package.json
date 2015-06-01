@@ -1,0 +1,21 @@
+{
+  "name": "tap-status",
+  "version": "1.0.0",
+  "description": "generate correct exit status from a tap stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "tap-status": "index.js"
+  },
+  "keywords": [
+    "tap",
+    "status"
+  ],
+  "author": "Tom MacWright",
+  "license": "ISC",
+  "dependencies": {
+    "tap-parser": "^1.1.5"
+  }
+}
