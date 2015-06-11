@@ -1,5 +1,7 @@
 # tap-status
 
+[![build status](https://secure.travis-ci.org/tmcw/tap-status.png)](http://travis-ci.org/tmcw/tap-status)
+
 Parse a TAP stream and emit it verbatim, and exit with the correct status
 code if tests fail. This is useful if you're using something like
 [hughsk/smokestack](https://github.com/hughsk/smokestack) that gives a stream
