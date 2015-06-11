@@ -16,6 +16,7 @@
   "author": "Tom MacWright",
   "license": "ISC",
   "dependencies": {
-    "tap-parser": "^1.1.5"
+    "tap-parser": "^1.1.5",
+    "tape": "^4.0.0"
   }
 }
