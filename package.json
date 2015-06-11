@@ -1,6 +1,6 @@
 {
   "name": "tap-status",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "generate correct exit status from a tap stream",
   "main": "index.js",
   "scripts": {
