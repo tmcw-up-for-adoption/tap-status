@@ -4,7 +4,7 @@ var Parser = require('tap-parser');
 
 var parser = new Parser();
 
-process.stdin.pipe(new Parser());
+process.stdin.pipe(parser);
 process.stdin.pipe(process.stdout);
 process.on('exit', function () {
   if (!parser.ok) {
