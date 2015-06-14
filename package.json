@@ -18,5 +18,9 @@
   "dependencies": {
     "tap-parser": "^1.1.5",
     "tape": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tmcw/tap-status.git"
   }
 }
